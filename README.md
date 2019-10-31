@@ -1,6 +1,6 @@
 # People API (GoLang)
 
-Here's me trying to do some weird stuff with GoLang. Tried revamping the output of a tutorial and make use of:
+Here's me trying to do some weird stuff with GoLang. Tried revamping the output of a [tutorial](https://www.youtube.com/watch?v=oW7PMHEYiSk) and make use of:
 
 - Go Modules
 - Go Packages
